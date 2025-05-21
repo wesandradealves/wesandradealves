@@ -94,6 +94,3 @@ Desenvolvedor full-stack com mais de **17 anos de experiência** em desenvolvime
 - **GitHub:** [wesandradealves](https://github.com/wesandradealves)
 - **WhatsApp:** +55 21 98139-4594
 
----
-
-> “Com forte ênfase em eficiência, código limpo e práticas de desenvolvimento de alta qualidade, estou comprometido em entregar aplicações impactantes e centradas no usuário em diversos frameworks e ambientes.”
