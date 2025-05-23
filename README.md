@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wes. =)
 
-Desenvolvedor Full-Stack | Especialista em Front End, Drupal & Wordpress | UI/UX Certificado  
+Fullstack Developer | Front End Specialist | Drupal Specialist | HTML5 | CSS3 | Bootstrap | JQuery | PHP | Javascript | Typescript | NodeJS | Angular | Next | React | Vue | Wordpress Specialist | UI/UX Certified
 Rio de Janeiro – RJ, Brasil
 
 ---
