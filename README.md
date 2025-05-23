@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Wes. =)
 
 Fullstack Developer | Front End Specialist | Drupal Specialist | HTML5 | CSS3 | Bootstrap | JQuery | PHP | Javascript | Typescript | NodeJS | Angular | Next | React | Vue | Wordpress Specialist | UI/UX Certified
+
 Rio de Janeiro – RJ, Brasil
 
 ---
