@@ -75,6 +75,8 @@ Desenvolvedor full-stack com mais de **17 anos de experiência** em desenvolvime
 
 ## 💼 Experiência Profissional
 
+- **Firjan** — Fullstack/Drupal Specialist
+- **Dourado Cash** — Fullstack
 - **Sys Manager** — Fullstack/Drupal Specialist (Equatorial Energia)
 - **Squadra Digital** — Fullstack/Drupal Specialist (Ab Inbev)
 - **City Connect** — Fullstack/Drupal Specialist (Firjan)
