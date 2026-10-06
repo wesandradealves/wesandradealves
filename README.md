@@ -85,7 +85,7 @@ Desenvolvedor full-stack com mais de **17 anos de experiência** em desenvolvime
 - **NTT DATA** — Fullstack/Drupal Specialist (Saint Gobain)
 - **Capgemini** — Fullstack/Drupal Specialist (Assembleia Legislativa RS)
 - **ACT Digital** — Frontend (Prudential Seguros)
-- **Lojas Americanas** — Fullstack (RH)
+- **Lojas Americanas** — Fullstack
 - **Gm5, Allied, Navcity, Clarté, Agência DesignLab, E-Like, Infoclad** — Diversos projetos e clientes
 
 ---
