@@ -78,6 +78,8 @@ Desenvolvedor full-stack com mais de **17 anos de experiência** em desenvolvime
 - **Firjan** — Fullstack/Drupal Specialist
 - **Dourado Cash** — Fullstack
 - **Sys Manager** — Fullstack/Drupal Specialist (Equatorial Energia)
+- **Zoocha** — Fullstack/Drupal Specialist 
+- **MDMA** — Fullstack/Drupal Specialist (Petrobrás) 
 - **Squadra Digital** — Fullstack/Drupal Specialist (Ab Inbev)
 - **City Connect** — Fullstack/Drupal Specialist (Firjan)
 - **YDUQS** — Fullstack/Drupal Specialist (Estácio/Ibmec)
